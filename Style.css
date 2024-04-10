@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+#hey {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: green;
+  text-align: center;
+}
+
+#txt {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: green;
+  text-align: center;
+  line-height: 2;
+  border: 2px solid #004200
+  }
+
+ a {
+   color: #004200
+}
+
+img {
+  width: 430;
+  height: 230;
+  position: relative;
+  right: 20px;
+  bottom: 40px;
+}
+}
+
+
+
+
